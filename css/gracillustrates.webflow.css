@@ -1,0 +1,41 @@
+.nav-link {
+  left: -500px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+}
+
+.nav-link-2 {
+  left: -360px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+}
+
+.nav-link-3 {
+  left: -300px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+}
+
+.nav-link-4 {
+  left: 30px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+.image {
+  position: absolute;
+  left: 200px;
+  top: 150px;
+  max-width: 70%;
+}
+
+.navbar {
+  background-color: transparent;
+  color: transparent;
+}
+
+.image-2 {
+  position: absolute;
+  left: 182px;
+  top: 348px;
+  max-width: 35%;
+}
