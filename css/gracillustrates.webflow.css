@@ -1,7 +1,19 @@
 .nav-link {
-  left: -500px;
+  position: static;
+  left: -155px;
+  bottom: -10px;
+  margin-right: 27px;
+  padding-right: 120px;
+  opacity: 0.4;
+  -webkit-transition: opacity 500ms ease;
+  transition: opacity 500ms ease;
   font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
   color: #696969;
+  text-align: left;
+}
+
+.nav-link:hover {
+  opacity: 1;
 }
 
 .nav-link-2 {
@@ -19,12 +31,13 @@
 .nav-link-4 {
   left: 30px;
   font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
 }
 
 .image {
-  position: absolute;
+  position: relative;
   left: 200px;
-  top: 150px;
+  top: -81px;
   max-width: 70%;
 }
 
@@ -38,4 +51,1826 @@
   left: 182px;
   top: 348px;
   max-width: 35%;
+}
+
+.image-3 {
+  position: static;
+}
+
+.image-4 {
+  background-color: #2c323d;
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg');
+  background-position: 0px 0px;
+  background-size: auto;
+  background-clip: border-box;
+}
+
+.slide {
+  height: 600ch;
+  max-height: 800em;
+  min-height: 0%;
+}
+
+.section {
+  max-height: 800%;
+}
+
+.slide-2 {
+  height: 1500px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  background-color: #2c323d;
+  background-image: url('../images/failure_02_web-copy.jpg');
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: repeat-y;
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+
+.slider {
+  height: 1500px;
+}
+
+.slide-3 {
+  background-color: #fff;
+  background-image: url('../images/failure_01_web.jpg');
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: repeat-y;
+  background-attachment: scroll;
+}
+
+.icon {
+  color: rgba(51, 51, 51, 0.14);
+}
+
+.icon-2 {
+  color: rgba(51, 51, 51, 0.14);
+}
+
+.section-2 {
+  height: 1500px;
+  background-image: url('../images/failure_02_web-copy.jpg');
+  background-position: 50% 0%;
+  background-size: contain;
+  line-height: 0px;
+}
+
+.body {
+  height: 100px;
+}
+
+.section-3 {
+  width: 1440px;
+  height: 600px;
+  background-image: url('../images/website_texture_Section-01-copy.png');
+  background-position: 0px 0px;
+  background-size: contain;
+  background-clip: border-box;
+}
+
+.container {
+  position: static;
+  left: 0px;
+  top: 20px;
+  width: auto;
+  text-align: left;
+}
+
+.section-4 {
+  width: auto;
+  height: auto;
+  margin-top: 60px;
+  margin-bottom: 80px;
+  margin-left: 300px;
+}
+
+.image-5 {
+  background-image: url('../images/Untitled_Artwork-46.png');
+  background-position: 0px 0px;
+  background-size: auto;
+}
+
+.container-2 {
+  background-image: url('../images/Untitled_Artwork-46.png');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.image-6 {
+  position: relative;
+  left: 252px;
+  top: 187px;
+  float: none;
+  clear: none;
+}
+
+.image-7 {
+  position: relative;
+  left: 121px;
+  top: 265px;
+}
+
+.text-block {
+  position: relative;
+  left: 818px;
+  top: -146px;
+  width: 300px;
+  margin-top: 50px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+  font-size: 13px;
+}
+
+.text-block-2 {
+  position: relative;
+  left: 444px;
+  top: 65px;
+  width: 300px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+.text-block-3 {
+  position: static;
+  left: 322px;
+  width: auto;
+  margin-top: 66px;
+  margin-left: 300px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.text-block-4 {
+  position: static;
+  left: 322px;
+  width: auto;
+  margin-top: 65px;
+  margin-bottom: 41px;
+  margin-left: 300px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+  font-size: 16px;
+  text-align: left;
+}
+
+.slide-4 {
+  width: auto;
+  height: auto;
+  background-image: url('../images/website_texture_Section-01-copy.png');
+  background-position: 0px 0px;
+  background-size: cover;
+  text-align: left;
+}
+
+.slider-2 {
+  width: auto;
+  height: auto;
+}
+
+.slide-5 {
+  background-image: url('../images/變二_01.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.image-8 {
+  position: relative;
+  left: 322px;
+  top: 199px;
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg');
+  background-position: 0px 0px;
+  background-size: auto;
+  background-clip: border-box;
+}
+
+.image-9 {
+  position: static;
+  left: 261px;
+  top: -520px;
+  width: 250px;
+  margin-top: 100px;
+  margin-left: 230px;
+}
+
+.text-block-5 {
+  position: static;
+  left: 484px;
+  top: -650px;
+  width: auto;
+  margin-top: -128px;
+  margin-left: 440px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  font-size: 15.5px;
+  letter-spacing: 0.75px;
+}
+
+.text-block-6 {
+  position: relative;
+  left: 118px;
+  top: 465px;
+  width: 300px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #fff;
+  font-size: 13px;
+}
+
+.text-block-7 {
+  position: relative;
+  left: 645px;
+  top: 487px;
+  width: 300px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #fff;
+  font-size: 13px;
+}
+
+.text-block-8 {
+  position: relative;
+  left: 1177px;
+  top: 507px;
+  width: 300px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #fff;
+  font-size: 13px;
+}
+
+.text-block-9 {
+  width: 100px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: hsla(0, 0%, 41.2%, 0.8);
+  font-size: 13px;
+}
+
+.link {
+  position: relative;
+  left: 58px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: rgba(51, 51, 51, 0.49);
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.section-5 {
+  height: 50px;
+  padding-top: 17px;
+}
+
+.container-3 {
+  position: relative;
+  width: 1440px;
+  color: rgba(51, 51, 51, 0);
+}
+
+.navbar-2 {
+  width: auto;
+  background-color: transparent;
+  background-clip: border-box;
+}
+
+.section-6 {
+  width: auto;
+  height: auto;
+  background-color: #494f5a;
+}
+
+.section-7 {
+  width: auto;
+  height: auto;
+}
+
+.paragraph {
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+.text-block-10 {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 0px;
+  top: 30px;
+  bottom: 100px;
+  display: block;
+  width: auto;
+  padding: 25px 50px;
+  clear: none;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  color: #696969;
+  font-size: 16px;
+  line-height: 22px;
+  font-style: normal;
+  font-weight: 400;
+  text-align: left;
+  -webkit-column-count: auto;
+  column-count: auto;
+}
+
+.text-span {
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+.container-4 {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 456px;
+}
+
+.image-10 {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 23px;
+  top: 68px;
+  width: auto;
+  padding-left: 54px;
+}
+
+.text-span-2 {
+  color: #696969;
+}
+
+.slide-6 {
+  width: auto;
+  height: auto;
+  background-image: url('../images/Publication_cover.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.slider-3 {
+  width: auto;
+  height: 700px;
+}
+
+.slide-7 {
+  background-image: url('../images/IMG_0068_2.jpg');
+  background-position: 0px -80px;
+  background-size: cover;
+}
+
+.brand {
+  left: -199px;
+  top: 12px;
+  width: 60px;
+  height: 100px;
+  background-image: url('../images/binyee.png');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.container-5 {
+  position: relative;
+  left: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.container-6 {
+  position: relative;
+  right: auto;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.nav-link-5 {
+  left: 200px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+}
+
+.nav-link-6 {
+  left: 150px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+}
+
+.nav-link-7 {
+  left: 100px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+}
+
+.section-9 {
+  width: auto;
+}
+
+.section-10 {
+  width: auto;
+  background-color: #000;
+}
+
+.text-block-11 {
+  position: relative;
+  left: 50px;
+  top: 50px;
+  width: 300px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  color: #fff;
+  font-size: 16px;
+}
+
+.italic-text {
+  position: relative;
+}
+
+.text-block-12 {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 0px;
+  top: 100px;
+  bottom: 0px;
+  width: 300px;
+  padding-top: 124px;
+  padding-bottom: 300px;
+  padding-left: 50px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  color: #fff;
+  font-size: 16px;
+}
+
+.section-11 {
+  width: auto;
+}
+
+.text-block-13 {
+  position: relative;
+  left: 50px;
+  bottom: -375px;
+  width: 300px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  color: #fff;
+  font-size: 16px;
+}
+
+.slide-8 {
+  background-image: url('../images/變二_04.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.image-11 {
+  position: relative;
+  left: 0px;
+  bottom: 60px;
+  width: 300px;
+  float: none;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#000), to(#fff));
+  background-image: linear-gradient(180deg, #000, #fff);
+  text-align: left;
+}
+
+.section-12 {
+  height: 700px;
+  background-image: url('../images/pub_thumbnail.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.text-span-3 {
+  width: auto;
+  color: #696969;
+  line-height: 22px;
+}
+
+.text-span-4 {
+  color: #696969;
+}
+
+.section-14 {
+  height: 900px;
+}
+
+.image-12 {
+  position: relative;
+  left: 40px;
+  top: 50px;
+  width: 150px;
+}
+
+.image-13 {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  text-align: center;
+}
+
+.text-block-14 {
+  position: static;
+  top: 170px;
+  margin-top: 100px;
+  margin-bottom: 250px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  color: #696969;
+  font-size: 16px;
+  text-align: center;
+}
+
+.inf-last {
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  color: #696969;
+  font-weight: 400;
+}
+
+.link-block {
+  position: static;
+  left: 50px;
+  top: auto;
+  width: 60px;
+  height: 100px;
+  margin-top: 5px;
+  margin-left: 40px;
+  background-image: url('../images/binyee.png');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.section-15 {
+  height: 100px;
+}
+
+.link-block-2 {
+  position: relative;
+  top: 132px;
+}
+
+.navbar-3 {
+  top: 0px;
+  background-color: transparent;
+  color: transparent;
+}
+
+.nav-link-8 {
+  position: relative;
+  left: auto;
+}
+
+.nav-link-9 {
+  left: auto;
+}
+
+.nav-link-10 {
+  left: auto;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #fff;
+}
+
+.text-span-6 {
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #fff;
+}
+
+.text-span-7 {
+  margin-left: 0px;
+  padding-right: 0px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #fff;
+}
+
+.navbar-4 {
+  background-color: transparent;
+}
+
+.nav-link-11 {
+  left: 100px;
+  top: 15px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  font-size: 16px;
+}
+
+.nav-link-12 {
+  left: 150px;
+  top: 15px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  font-size: 16px;
+}
+
+.nav-link-13 {
+  left: 200px;
+  top: 15px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  font-size: 16px;
+}
+
+.section-16 {
+  height: 800px;
+}
+
+.image-14 {
+  position: static;
+  left: 50px;
+  width: auto;
+  cursor: auto;
+}
+
+.brand-2 {
+  left: 40px;
+  width: 250px;
+  height: 90px;
+  background-image: url('../images/logo-02.png');
+  background-position: 0px 0px;
+  background-size: cover;
+  font-size: 80px;
+}
+
+.text-block-15 {
+  position: relative;
+  left: 80px;
+  top: 248px;
+  opacity: 1;
+  -webkit-transition: opacity 200ms ease;
+  transition: opacity 200ms ease;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+  font-size: 30px;
+  font-style: italic;
+}
+
+.link-block-3 {
+  position: relative;
+  left: 80px;
+  top: 400px;
+  width: 100px;
+  height: 50px;
+  background-image: url('../images/logo-02.png');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.link-block-4 {
+  position: relative;
+  left: 110px;
+  top: 400px;
+}
+
+.link-block-5 {
+  position: relative;
+  left: 140px;
+  top: 400px;
+}
+
+.text-block-16 {
+  display: block;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+  font-size: 16px;
+  font-style: normal;
+  text-decoration: none;
+}
+
+.text-span-8 {
+  color: #696969;
+  font-style: normal;
+  text-align: left;
+  text-decoration: none;
+}
+
+.link-2 {
+  position: relative;
+  left: 100px;
+  top: 376px;
+  margin-right: 100px;
+  padding-right: 0px;
+  opacity: 0.48;
+  -webkit-transition: opacity 400ms ease;
+  transition: opacity 400ms ease;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+  font-size: 15px;
+  font-style: normal;
+  text-decoration: none;
+}
+
+.link-2:hover {
+  background-color: transparent;
+  opacity: 1;
+  -webkit-filter: sepia(100%);
+  filter: sepia(100%);
+  color: #696969;
+}
+
+.heading {
+  position: static;
+  left: 100px;
+  bottom: -230px;
+  margin-top: 12px;
+  margin-left: 30px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.image-15 {
+  position: static;
+  left: 514px;
+  bottom: -283px;
+  width: 35px;
+  margin-top: 294px;
+  margin-right: 120px;
+  margin-left: 20px;
+  padding-right: 0px;
+  opacity: 1;
+  -webkit-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+
+.paragraph-2 {
+  position: relative;
+  left: 100px;
+  top: 240px;
+  width: 500px;
+}
+
+.image-16 {
+  width: auto;
+  height: 2000px;
+  background-image: url('../images/failure_third_web.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.icon-3 {
+  color: #e1e1e1;
+}
+
+.icon-4 {
+  color: #e1e1e1;
+}
+
+.slide-9 {
+  background-image: url('../images/變二_02-copy.jpg');
+  background-position: 50% 80%;
+  background-size: cover;
+}
+
+.slide-10 {
+  height: 750px;
+  background-image: url('../images/cover_ps.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.slider-4 {
+  height: 750px;
+}
+
+.slide-11 {
+  background-image: url('../images/Binyee-05_02.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.navbar-5 {
+  background-color: hsla(0, 0%, 100%, 0);
+  color: transparent;
+}
+
+.section-17 {
+  height: auto;
+}
+
+.section-18 {
+  height: auto;
+}
+
+.section-19 {
+  height: auto;
+  background-color: #2a1f24;
+}
+
+.section-20 {
+  height: auto;
+}
+
+.text-span-9 {
+  color: #fff;
+}
+
+.section-21 {
+  height: auto;
+}
+
+.section-22 {
+  height: auto;
+  background-image: url('../images/Inferiority_5.jpg');
+  background-position: 50% 100%;
+  background-size: cover;
+}
+
+.section-23 {
+  height: auto;
+}
+
+.section-24 {
+  height: auto;
+}
+
+.section-25 {
+  height: auto;
+}
+
+.image-17 {
+  width: 130px;
+  margin-top: 50px;
+  margin-left: 37px;
+}
+
+.section-26 {
+  height: 40px;
+  text-align: right;
+}
+
+.text-span-10 {
+  color: #fff;
+}
+
+.text-span-11 {
+  position: relative;
+  top: 0px;
+}
+
+.container-7 {
+  height: 900px;
+}
+
+.container-8 {
+  position: static;
+  left: -257px;
+  text-align: left;
+}
+
+.container-9 {
+  max-width: 1440px;
+}
+
+.container-10 {
+  text-align: center;
+}
+
+.navbar-6 {
+  width: auto;
+  background-color: transparent;
+  background-clip: border-box;
+}
+
+.slider-5 {
+  height: auto;
+}
+
+.link-block-6 {
+  position: static;
+  left: 50px;
+  top: -46px;
+  width: 60px;
+  height: 100px;
+  margin-top: 5px;
+  margin-left: 40px;
+  background-image: url('../images/binyee.png');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.slider-6 {
+  height: 750px;
+}
+
+.slide-12 {
+  background-image: url('../images/變二_04.jpg');
+  background-position: 0px 0px;
+  background-size: auto;
+}
+
+.slide-13 {
+  background-image: url('../images/Publication_cover.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.slide-14 {
+  background-image: url('../images/變二_04.jpg');
+  background-position: 0% 0%;
+  background-size: cover;
+}
+
+.slide-15 {
+  background-image: url('../images/IMG_0068_2.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.link-3 {
+  margin-right: 0px;
+  margin-left: 90px;
+  padding-right: 30px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+  text-align: left;
+  text-decoration: none;
+}
+
+.link-3.w--current {
+  height: auto;
+}
+
+.section-27 {
+  height: 40px;
+  margin-top: 0px;
+  text-align: right;
+}
+
+.container-11 {
+  position: relative;
+  left: 0px;
+  text-align: right;
+}
+
+.nav-menu {
+  position: relative;
+  left: auto;
+  right: auto;
+  display: block;
+  float: right;
+}
+
+.left-arrow {
+  height: 200px;
+}
+
+.right-arrow {
+  height: 200px;
+}
+
+.container-12 {
+  position: static;
+  right: -64px;
+  text-align: right;
+}
+
+.right-arrow-2 {
+  height: 200px;
+}
+
+.left-arrow-2 {
+  height: 200px;
+}
+
+.slide-16 {
+  height: 750px;
+}
+
+.slider-7 {
+  height: 750px;
+}
+
+.slide-17 {
+  background-image: url('../images/Cover_web.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.text-span-12 {
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #fff;
+}
+
+.slide-18 {
+  background-image: url('../images/Solitude_inside_web.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.image-19 {
+  background-image: url('../images/Solitude_01_web.jpg');
+  background-position: 0px 0px;
+  background-size: auto;
+}
+
+.image-20 {
+  background-image: url('../images/Solitude_2_web.jpg');
+  background-position: 0px 0px;
+  background-size: auto;
+}
+
+.section27 {
+  text-align: right;
+}
+
+.image-21 {
+  width: 137px;
+  margin-top: 50px;
+  margin-left: 37px;
+}
+
+.image-22 {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 23px;
+  top: 24px;
+  height: auto;
+  margin-left: 41px;
+  text-align: center;
+}
+
+.slider-8 {
+  height: 750px;
+}
+
+.section-29 {
+  background-color: #000;
+}
+
+.text-block-17 {
+  position: relative;
+  top: 470px;
+  padding-top: 25px;
+  padding-right: 100px;
+  padding-bottom: 25px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  color: #fff;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: right;
+}
+
+.text-block-18 {
+  position: relative;
+  top: 470px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 100px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  color: #fff;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.slider-9 {
+  height: auto;
+  color: #000;
+}
+
+.slide-19 {
+  background-color: #000;
+  color: #000;
+}
+
+.slide-nav-3 {
+  color: #000;
+  font-size: 16px;
+}
+
+.section-30 {
+  background-color: #000;
+}
+
+.slide-20 {
+  background-color: #000;
+}
+
+.text-block-19 {
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.text-block-20 {
+  position: relative;
+  top: 400px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  color: #fff;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+}
+
+.slide-21 {
+  background-color: #000;
+}
+
+.slide-22 {
+  background-color: #000;
+}
+
+.mask {
+  background-color: #000;
+}
+
+.image-23 {
+  margin-top: 0px;
+}
+
+.image-24 {
+  width: 170px;
+  margin-top: 25px;
+  margin-left: 50px;
+}
+
+.icon-7 {
+  color: #474747;
+}
+
+.icon-8 {
+  color: #474747;
+}
+
+.slide-23 {
+  background-image: url('../images/Depressed_Cover.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.slide-24 {
+  background-image: url('../images/Depressed_web.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.section-31 {
+  background-color: #000;
+}
+
+.section-32 {
+  height: 40px;
+  background-color: #000;
+  color: #000;
+  text-align: right;
+}
+
+.link-4 {
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.link-5 {
+  margin-left: 60px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.link-6 {
+  margin-left: 60px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.link-7 {
+  margin-left: 60px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.image-25 {
+  background-image: url('../images/website_texture_Section-01-copy.png');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.slide-25 {
+  background-image: url('../images/website_texture_Section-01-copy.png');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.slider-10 {
+  height: 600px;
+}
+
+.link-block-7 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+}
+
+.link-block-8 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+}
+
+.section-33 {
+  height: auto;
+}
+
+.heading-2 {
+  position: static;
+  font-style: normal;
+  text-decoration: none;
+}
+
+.text-block-21 {
+  position: static;
+  top: 257px;
+  display: block;
+  margin-top: 12px;
+  margin-bottom: 9px;
+  margin-left: 30px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+  text-decoration: none;
+}
+
+.grid {
+  grid-template-areas: "Area";
+  -ms-grid-columns: 1.75fr 1fr;
+  grid-template-columns: 1.75fr 1fr;
+}
+
+.heading-3 {
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+.heading-4 {
+  padding-left: 30px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #696969;
+  font-size: 17px;
+}
+
+.column {
+  position: static;
+}
+
+.section-34 {
+  text-align: left;
+}
+
+.container-13 {
+  height: 100px;
+}
+
+.slide-26 {
+  background-image: url('../images/變二_01-1-copy.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.slide-27 {
+  background-image: url('../images/變二_02-copy.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.text-block-22 {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 30px;
+  bottom: 100px;
+  padding: 25px 50px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  color: #fff;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.text-block-23 {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 30px;
+  bottom: 100px;
+  padding: 25px 50px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  color: #fff;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.paragraph-3 {
+  margin-right: 200px;
+  margin-left: 30px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  font-style: italic;
+}
+
+.image-26 {
+  width: 100px;
+}
+
+.container-14 {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+@media screen and (max-width: 991px) {
+  .section-3 {
+    background-size: 1200px 850px;
+  }
+
+  .icon-6 {
+    color: #fff;
+  }
+
+  .icon-9 {
+    color: #fff;
+  }
+
+  .icon-10 {
+    color: #fff;
+  }
+
+  .icon-11 {
+    color: #fff;
+  }
+
+  .icon-12 {
+    color: #fff;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .image-11 {
+    bottom: 130px;
+  }
+
+  .icon-6 {
+    color: #fff;
+  }
+
+  .icon-9 {
+    color: #fff;
+  }
+
+  .icon-10 {
+    color: #fff;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .section-3 {
+    background-position: 50% 50%;
+    background-size: cover;
+  }
+
+  .section-4 {
+    width: auto;
+  }
+
+  .image-6 {
+    left: 200px;
+    top: 187px;
+  }
+
+  .text-block-3 {
+    position: static;
+    width: auto;
+    margin-left: 20px;
+  }
+
+  .text-block-4 {
+    position: static;
+    width: auto;
+    margin-left: 0px;
+    padding-left: 20px;
+  }
+
+  .slide-4 {
+    width: auto;
+    height: auto;
+  }
+
+  .slider-2 {
+    height: auto;
+  }
+
+  .link {
+    position: static;
+    margin-left: 20px;
+    font-size: 10px;
+    font-style: italic;
+  }
+
+  .section-5 {
+    height: 50px;
+    padding-top: 10px;
+    font-size: 12px;
+  }
+
+  .navbar-2 {
+    width: auto;
+  }
+
+  .section-6 {
+    width: auto;
+    height: auto;
+    background-image: none;
+  }
+
+  .section-7 {
+    width: auto;
+    height: auto;
+  }
+
+  .text-block-10 {
+    right: 0px;
+    z-index: auto;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    font-size: 10px;
+    line-height: 14px;
+  }
+
+  .image-10 {
+    top: 100px;
+    width: auto;
+    padding-left: 0px;
+    font-size: 10px;
+    line-height: 14px;
+  }
+
+  .slide-6 {
+    width: auto;
+    height: auto;
+    min-height: auto;
+    min-width: auto;
+    background-size: cover;
+  }
+
+  .slider-3 {
+    width: auto;
+    height: auto;
+  }
+
+  .slide-7 {
+    min-height: auto;
+    min-width: auto;
+    background-size: cover;
+  }
+
+  .section-8 {
+    width: auto;
+    height: auto;
+    background-image: none;
+  }
+
+  .section-9 {
+    width: auto;
+    height: auto;
+  }
+
+  .section-10 {
+    width: auto;
+    height: auto;
+  }
+
+  .text-block-11 {
+    left: 20px;
+    top: 20px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .text-block-12 {
+    position: -webkit-sticky;
+    position: sticky;
+    right: 0px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    float: none;
+    clear: none;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .text-block-13 {
+    left: 20px;
+    bottom: -150px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .image-11 {
+    position: relative;
+    bottom: 35px;
+    width: 100px;
+    max-width: 150px;
+    margin-bottom: 29px;
+  }
+
+  .section-12 {
+    height: 300px;
+  }
+
+  .text-span-3 {
+    line-height: 17px;
+  }
+
+  .section-14 {
+    height: auto;
+  }
+
+  .image-12 {
+    left: 16px;
+    width: 70px;
+  }
+
+  .text-block-14 {
+    top: auto;
+    margin: 70px 25px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .link-block {
+    left: auto;
+    width: 35px;
+    height: 50px;
+    margin-top: 12px;
+    margin-left: 10px;
+  }
+
+  .section-15 {
+    height: auto;
+  }
+
+  .nav-link-10 {
+    padding-right: 0px;
+    padding-left: 20px;
+  }
+
+  .section-16 {
+    height: auto;
+  }
+
+  .image-14 {
+    position: static;
+  }
+
+  .brand-2 {
+    left: -5px;
+    width: 150px;
+    height: 50px;
+    margin-left: auto;
+  }
+
+  .heading {
+    position: static;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    font-size: 24px;
+  }
+
+  .image-15 {
+    position: static;
+    left: 0px;
+    top: 0px;
+    bottom: auto;
+    margin-top: 0px;
+    margin-left: 13px;
+    padding-bottom: 0px;
+  }
+
+  .paragraph-2 {
+    position: static;
+    width: auto;
+    font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+    line-height: 17px;
+    font-style: italic;
+  }
+
+  .slide-10 {
+    height: 500px;
+  }
+
+  .slider-4 {
+    height: 500px;
+  }
+
+  .slide-11 {
+    background-position: 50% 50%;
+  }
+
+  .section-25 {
+    height: auto;
+  }
+
+  .image-17 {
+    width: 70px;
+    margin-left: 10px;
+  }
+
+  .section-26 {
+    margin-left: 15px;
+    text-align: center;
+  }
+
+  .icon-5 {
+    color: #adadad;
+  }
+
+  .slide-nav-2 {
+    background-color: transparent;
+    color: rgba(208, 99, 99, 0.08);
+  }
+
+  .link-block-6 {
+    height: 80px;
+    margin-left: 15px;
+  }
+
+  .slider-6 {
+    height: 500px;
+  }
+
+  .slide-14 {
+    background-position: 50% 50%;
+  }
+
+  .slide-15 {
+    background-position: 50% 0%;
+  }
+
+  .link-3 {
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 32px;
+    font-size: 9px;
+  }
+
+  .container-11 {
+    font-size: 8px;
+  }
+
+  .left-arrow {
+    height: 200px;
+  }
+
+  .right-arrow {
+    height: 200px;
+  }
+
+  .menu-button {
+    color: #fff;
+  }
+
+  .slider-7 {
+    height: 500px;
+  }
+
+  .slide-17 {
+    height: 500px;
+    background-position: 50% 50%;
+  }
+
+  .slide-18 {
+    background-position: 50% 50%;
+  }
+
+  .icon-6 {
+    color: #fff;
+  }
+
+  .section27 {
+    height: 40px;
+    margin-left: 15px;
+    text-align: center;
+  }
+
+  .image-21 {
+    width: 70px;
+    margin-top: 15px;
+    margin-left: 15px;
+  }
+
+  .image-22 {
+    margin-left: 8px;
+  }
+
+  .slider-8 {
+    height: 500px;
+  }
+
+  .text-block-17 {
+    position: static;
+    top: 170px;
+    padding-right: 25px;
+    font-size: 10px;
+    line-height: 13px;
+  }
+
+  .text-block-18 {
+    position: static;
+    padding-left: 10px;
+    font-size: 10px;
+    line-height: 13px;
+  }
+
+  .text-block-20 {
+    position: static;
+    padding-top: 25px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 10px;
+    line-height: 13px;
+    text-align: center;
+  }
+
+  .image-24 {
+    width: 80px;
+    margin-left: 15px;
+  }
+
+  .slide-23 {
+    background-position: 0% 50%;
+  }
+
+  .slide-24 {
+    background-position: 50% 50%;
+  }
+
+  .text-block-21 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+    color: #696969;
+    font-size: 10px;
+    line-height: 13px;
+    font-style: italic;
+  }
+
+  .heading-4 {
+    margin-bottom: 0px;
+    padding-left: 0px;
+  }
+
+  .column {
+    padding-left: 0px;
+  }
+
+  .text-block-22 {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 10px;
+    line-height: 14px;
+  }
+
+  .text-block-23 {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 10px;
+    line-height: 14px;
+  }
+
+  .icon-9 {
+    color: #fff;
+  }
+
+  .icon-10 {
+    color: #fff;
+  }
+
+  .mask-2 {
+    height: 500px;
+  }
+
+  .icon-13 {
+    color: #fff;
+  }
+
+  .icon-14 {
+    color: #fff;
+  }
+
+  .bold-text {
+    margin-left: 20px;
+    font-size: 14px;
+    line-height: 20px;
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  .paragraph-3 {
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 10px;
+    line-height: 13px;
+  }
+
+  .image-26 {
+    width: 30px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+  }
+
+  .container-14 {
+    text-align: center;
+  }
 }
