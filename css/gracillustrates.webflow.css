@@ -308,9 +308,10 @@
 .link {
   position: relative;
   left: 58px;
-  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
   color: rgba(51, 51, 51, 0.49);
   font-size: 13px;
+  font-style: italic;
   text-decoration: none;
 }
 
@@ -1418,6 +1419,8 @@
 
   .section-4 {
     width: auto;
+    margin-left: auto;
+    padding-left: 20px;
   }
 
   .image-6 {
@@ -1428,14 +1431,20 @@
   .text-block-3 {
     position: static;
     width: auto;
+    margin-right: 20px;
     margin-left: 20px;
+    font-size: 10px;
+    line-height: 13px;
   }
 
   .text-block-4 {
     position: static;
     width: auto;
     margin-left: 0px;
+    padding-right: 20px;
     padding-left: 20px;
+    font-size: 10px;
+    line-height: 13px;
   }
 
   .slide-4 {
@@ -1447,9 +1456,23 @@
     height: auto;
   }
 
+  .image-9 {
+    width: 150px;
+    margin-top: 15px;
+    margin-left: auto;
+  }
+
+  .text-block-5 {
+    margin-top: -80px;
+    margin-left: 130px;
+    font-size: 11px;
+    line-height: 14px;
+  }
+
   .link {
     position: static;
     margin-left: 20px;
+    font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
     font-size: 10px;
     font-style: italic;
   }
@@ -1793,6 +1816,29 @@
 
   .slide-24 {
     background-position: 50% 50%;
+  }
+
+  .link-4 {
+    font-size: 10px;
+  }
+
+  .link-5 {
+    margin-left: 15px;
+    font-size: 10px;
+  }
+
+  .link-6 {
+    margin-left: 15px;
+    font-size: 10px;
+  }
+
+  .link-7 {
+    margin-left: 15px;
+    font-size: 10px;
+  }
+
+  .slider-10 {
+    height: 300px;
   }
 
   .text-block-21 {
