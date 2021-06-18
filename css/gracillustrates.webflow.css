@@ -1367,6 +1367,15 @@
   text-align: center;
 }
 
+.image-27 {
+  width: 100%;
+  max-width: none;
+}
+
+.link-block-9 {
+  width: 100%;
+}
+
 @media screen and (max-width: 991px) {
   .section-3 {
     background-size: 1200px 850px;
